@@ -1,16 +1,17 @@
 ---
-title: ganti dengan judul tema yang anda ambil 
+title: Latihan Pull Reques oleh Elyas
 category: Materi
-author: Ikhwan Elyas ganti dengan nama anda
+author: Elyas
 published: true
 ---
 
 ## tema 
-isi dan penjelasan
+isi dan penjelasan dari Makalah anda 
 
 
 ### sub tema 
-isi dan penjelasan 
+isi dan penjelasan dari Makalah anda 
 
 
 dan seterusnya 
+Latihan pull reques oleh elyas 
