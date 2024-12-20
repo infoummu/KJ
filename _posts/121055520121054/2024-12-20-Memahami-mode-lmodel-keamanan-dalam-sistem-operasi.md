@@ -15,94 +15,100 @@ Makalah ini bertujuan untuk memberikan pemahaman yang komprehensif mengenai berb
 
 Keamanan sistem operasi adalah aspek penting dalam pengembangan dan pengelolaan sistem komputer. Dengan meningkatnya ancaman terhadap data dan privasi, pemahaman tentang model-model keamanan yang ada menjadi sangat krusial. Makalah ini akan membahas berbagai model keamanan dalam sistem operasi, termasuk prinsip-prinsip dasar, implementasi, dan tantangan yang dihadapi.
 
-1. **Definisi Keamanan Sistem Operasi**
+### Definisi Keamanan Sistem Operasi
 
    Keamanan Sistem Operasi: Merupakan perlindungan terhadap data dan sumber daya sistem dari akses yang tidak sah, kerusakan, dan gangguan.
 
-Tujuan Keamanan:
+   Tujuan Keamanan:
+   
    - **Melindungi kerahasiaan data.**
    - **Menjamin integritas data.**
    - **Menyediakan ketersediaan sistem.**
 
-2. **Model-Model Keamanan dalam Sistem Operasi**
+### Model-Model Keamanan dalam Sistem Operasi
 
-   **Model Bell-LaPadula**
+   1. **Model Bell-LaPadula**
+      
+      Deskripsi: Model ini berfokus pada menjaga kerahasiaan informasi.
+      
+      Aturan Utama:
 
-   Deskripsi: Model ini berfokus pada menjaga kerahasiaan informasi.
-
-   Aturan Utama:
-
-    - **No Read Up (Simple Security Property): Pengguna tidak dapat mengakses data yang berada pada level keamanan yang lebih tinggi.**
+      - **No Read Up (Simple Security Property): Pengguna tidak dapat mengakses data yang berada pada level keamanan yang lebih tinggi.**
     - **No Write Down (Star Property): Pengguna tidak dapat menulis data ke level yang lebih rendah.**
+        
+   2. **Model Biba**
 
-4. **Model Biba**
+      Deskripsi: Model ini berfokus pada menjaga integritas data.
 
-   Deskripsi: Model ini berfokus pada menjaga integritas data.
+      Aturan Utama:
 
-   Aturan Utama:
+      - **No Write Up: Pengguna tidak dapat menulis data ke level yang lebih tinggi.**
+      - **No Read Down: Pengguna tidak dapat membaca data dari level yang lebih rendah.**
 
-   - **No Write Up: Pengguna tidak dapat menulis data ke level yang lebih tinggi.**
+   3. **Model Clark-Wilson**
      
-   -**No Read Down: Pengguna tidak dapat membaca data dari level yang lebih rendah.**
+      Deskripsi: Model ini mengatur akses berdasarkan aturan dan prosedur yang ketat.
 
-2.3. Model Clark-Wilson
+      Aturan Utama:
 
-    Deskripsi: Model ini mengatur akses berdasarkan aturan dan prosedur yang ketat.
+      - **Memisahkan tugas untuk mencegah penipuan.**
+      - **Menggunakan transaksi terjamin untuk menjaga integritas data.**
 
-    Aturan Utama:
-        Memisahkan tugas untuk mencegah penipuan.
-        Menggunakan transaksi terjamin untuk menjaga integritas data.
+   4. **Model Brewer-Nash (Chinese Wall)**
 
-2.4. Model Brewer-Nash (Chinese Wall)
+      Deskripsi: Model ini dirancang untuk mencegah konflik kepentingan.
 
-    Deskripsi: Model ini dirancang untuk mencegah konflik kepentingan.
+      Aturan Utama:
 
-    Aturan Utama:
-        Akses dibatasi berdasarkan informasi yang telah diakses sebelumnya.
+      - **Akses dibatasi berdasarkan informasi yang telah diakses sebelumnya.**
 
-3. Implementasi Model Keamanan
-3.1. Penggunaan Kontrol Akses
+### Implementasi Model Keamanan
 
-    Kontrol Akses Discretionary (DAC): Pengguna memiliki kontrol penuh atas sumber daya yang dimiliki.
+1. **Penggunaan Kontrol Akses**
 
-    Kontrol Akses Mandatory (MAC): Sistem menentukan akses berdasarkan kebijakan keamanan yang telah ditetapkan.
+   - **Kontrol Akses Discretionary (DAC): Pengguna memiliki kontrol penuh atas sumber daya yang dimiliki.**
+     
+   - **Kontrol Akses Mandatory (MAC): Sistem menentukan akses berdasarkan kebijakan keamanan yang telah ditetapkan.**
 
-3.2. Enkripsi Data
+2. **Enkripsi Data**
 
-    Enkripsi: Mengamankan data dengan mengubahnya menjadi format yang tidak dapat dibaca tanpa kunci dekripsi.
+   - **Enkripsi: Mengamankan data dengan mengubahnya menjadi format yang tidak dapat dibaca tanpa kunci dekripsi.**
 
-3.3. Audit dan Monitoring
+3. **Audit dan Monitoring**
 
-    Audit Log: Mencatat semua aktivitas untuk mendeteksi dan mencegah pelanggaran keamanan.
+   - **Audit Log: Mencatat semua aktivitas untuk mendeteksi dan mencegah pelanggaran keamanan.**
 
-4. Tantangan dalam Keamanan Sistem Operasi
-4.1. Ancaman dari Malware
+### Tantangan dalam Keamanan Sistem Operasi
 
-    Virus, Worm, dan Trojan: Program berbahaya yang dapat merusak sistem dan mencuri data.
+1. Ancaman dari Malware
 
-4.2. Serangan Jaringan
+   - **Virus, Worm, dan Trojan: Program berbahaya yang dapat merusak sistem dan mencuri data.**
 
-    DDoS (Distributed Denial of Service): Serangan yang bertujuan untuk membuat layanan tidak tersedia.
+2. Serangan Jaringan
 
-4.3. Kesalahan Manusia
+   - **DDoS (Distributed Denial of Service): Serangan yang bertujuan untuk membuat layanan tidak tersedia.**
 
-    Phishing dan Social Engineering: Metode yang digunakan untuk mengecoh pengguna agar memberikan informasi sensitif.
+3. **Kesalahan Manusia**
 
-5. Kesimpulan
+    - **Phishing dan Social Engineering: Metode yang digunakan untuk mengecoh pengguna agar memberikan informasi sensitif.**
+
+### Kesimpulan
 
 Memahami model-model keamanan dalam sistem operasi adalah langkah penting untuk melindungi data dan sumber daya. Dengan menerapkan model yang tepat dan mengatasi tantangan yang ada, organisasi dapat meningkatkan keamanan sistem mereka secara signifikan.
 Referensi
 
-    Anderson, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.
+### referensi
 
-    Stallings, W. (2018). Operating Systems: Internals and Design Principles. Pearson.
+- **Anderson, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems. Wiley.**
 
-    Tanenbaum, A. S., & Austin, T. (2012). Operating Systems: Design and Implementation. Prentice Hall.
+- **Stallings, W. (2018). Operating Systems: Internals and Design Principles. Pearson.**
 
-    Bell, D. E., & LaPadula, L. J. (1973). Secure Computer System: Unified Exposition and Multics Interpretation. MITRE Corporation.
+- **Tanenbaum, A. S., & Austin, T. (2012). Operating Systems: Design and Implementation. Prentice Hall.**
 
-    Biba, W. (1977). Integrity Considerations for Secure Computer Systems. MITRE Corporation.
+- **Bell, D. E., & LaPadula, L. J. (1973). Secure Computer System: Unified Exposition and Multics Interpretation. MITRE Corporation.**
 
-    Clark, D. D., & Wilson, D. R. (1987). A Comparison of Commercial and Military Security Policies. Proceedings of the 1987 IEEE Symposium on Security and Privacy.
+- **Biba, W. (1977). Integrity Considerations for Secure Computer Systems. MITRE Corporation.**
+
+- **Clark, D. D., & Wilson, D. R. (1987). A Comparison of Commercial and Military Security Policies. Proceedings of the 1987 IEEE Symposium on Security and Privacy.**
 
     Brewer, D. F., & Nash, M. J. (1989). The Chinese Wall Security Policy. ACM Transactions on Information Systems Security.
