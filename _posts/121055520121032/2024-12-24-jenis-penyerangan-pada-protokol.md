@@ -1,7 +1,7 @@
 ---
-title: jenis penyerangan pada protokol
+Judul: jenis penyerangan pada protokol
 category: Materi
-author: m gibran a ahsan
+Nama:M Gibran A Hasan
 npm: 121055520121032
 ---
 
@@ -15,48 +15,54 @@ Dengan memahami berbagai jenis penyerangan ini, diharapkan pembaca dapat lebih w
 
 Semoga tulisan ini dapat memberikan wawasan yang bermanfaat dan mendorong pembaca untuk lebih mendalami aspek keamanan dalam komunikasi data.
 
-### Pokok Bahasan:
-1. **Dasar-Dasar Keamanan Informasi**
-   - Konsep CIA (Confidentiality, Integrity, Availability)  
-   - Ancaman, kerentanan, dan risiko  
-   - Kebijakan keamanan informasi  
+### pendahuluan
+Dalam era digital saat ini, keamanan jaringan menjadi salah satu aspek yang sangat penting. Berbagai jenis penyerang dapat memanfaatkan kelemahan dalam protokol jaringan untuk melakukan serangan. Makalah ini akan membahas berbagai jenis penyerang yang umum terjadi pada protokol jaringan serta cara-cara mereka beroperasi.
 
-2. **Kriptografi**
-   - Algoritma enkripsi simetris dan asimetris  
-   - Hashing dan tanda tangan digital  
-   - Sertifikat digital dan infrastruktur kunci publik (PKI)  
+2. **Jenis Penyerang pada Protokol
+   1. Penyerang Man-in-the-Middle (MitM)
+Deskripsi: Penyerang MitM menyusup ke dalam komunikasi antara dua pihak tanpa sepengetahuan mereka.
+Metode Serangan:
+Menggunakan teknik spoofing untuk mengelabui kedua pihak.
+Mencuri data sensitif seperti username dan password.
+Contoh Protokol Rentan: HTTP, FTP.
+3. ** Penyerang DDoS (Distributed Denial of Service)
+   Deskripsi: Penyerang DDoS berusaha membuat layanan tidak tersedia dengan membanjiri server dengan lalu lintas yang berlebihan.
+Metode Serangan:
+Menggunakan botnet untuk mengirimkan permintaan secara bersamaan.
+Menargetkan server DNS atau aplikasi web.
+Contoh Protokol Rentan: HTTP, DNS.
+4. **Penyerang SQL Injection
+  Deskripsi: Penyerang mengeksploitasi kerentanan dalam aplikasi web dengan menyisipkan perintah SQL berbahaya.
+Metode Serangan:
+Memasukkan kode SQL ke dalam input form untuk mengakses database.
+Mengambil data sensitif dari database.
+Contoh Protokol Rentan: HTTP (melalui aplikasi web).
 
-3. **Keamanan Sistem Operasi**
-   - Model keamanan sistem operasi  
-   - Hardening sistem operasi  
-   - Manajemen akses dan otorisasi  
-
-4. **Keamanan Jaringan Komputer**
-   - Firewall dan IDS/IPS  
-   - Keamanan protokol jaringan (IPSec, SSL/TLS)  
-   - VPN dan proxy  
-
-5. **Serangan Siber dan Pertahanan**
-   - Jenis-jenis serangan (DoS/DDoS, phishing, malware, ransomware)  
-   - Teknik mitigasi dan respons insiden  
-   - Analisis forensik siber  
-
-6. **Keamanan Aplikasi Web dan IoT**
-   - Kerentanan aplikasi web (SQL Injection, XSS, CSRF)  
-   - Keamanan API dan IoT  
-
+5. **Penyerang Phishing
+   Deskripsi: Penyerang mencoba untuk mendapatkan informasi sensitif dengan menyamar sebagai entitas tepercaya.
+Metode Serangan:
+Mengirim email yang tampak sah untuk mengarahkan korban ke situs web palsu.
+Menggunakan teknik social engineering untuk meyakinkan korban.
+Contoh Protokol Rentan: SMTP, HTTP.
+6. **Penyerang Ransomware
+   Deskripsi: Penyerang mengenkripsi data korban dan meminta tebusan untuk mengembalikannya.
+Metode Serangan:
+Menggunakan malware untuk menginfeksi sistem.
+Menyebarkan melalui email atau situs web yang terinfeksi.
+Contoh Protokol Rentan: SMB, HTTP.
 7. **Etika dan Kepatuhan**
    - Regulasi keamanan data (GDPR, ISO 27001)  
    - Etika profesional dalam keamanan siber  
 
-### Hasil Pembelajaran:
-Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
-1. Mengidentifikasi dan menganalisis ancaman serta kerentanan pada sistem dan jaringan komputer.  
-2. Merancang solusi keamanan untuk melindungi data dan infrastruktur teknologi informasi.  
-3. Menerapkan alat dan teknik keamanan pada sistem operasi, jaringan, dan aplikasi.  
-4. Mengelola insiden keamanan dan melakukan investigasi forensik.  
-5. Memahami aspek hukum dan etika terkait keamanan siber. 
-
----
-- From: CGAI
-- By: Ikhwan Elyas
+### kesimpulan
+Deskripsi: Penyerang mengenkripsi data korban dan meminta tebusan untuk mengembalikannya.
+Metode Serangan:
+Menggunakan malware untuk menginfeksi sistem.
+Menyebarkan melalui email atau situs web yang terinfeksi.
+Contoh Protokol Rentan: SMB, HTTP.
+### referensi
+Jurnal Manajemen Informatika (JAMIKA), 2021.
+Walisongo Journal of Information Technology, 2021.
+Keamanan Jaringan: Pusat Bahan Ajar dan eLearning, 2024.
+Penelitian tentang Keamanan Sistem Jaringan, 2023.
+Jurnal Informatika Sunan Kalijaga, 2022.
