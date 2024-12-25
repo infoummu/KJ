@@ -1,56 +1,76 @@
 ---
-title: Keamana Sistem & Jaringan Komputer V1
-category: Materi
-author: Ikhwan Elyas
-published: true
+title : penggunaan sistem pemantauan jaringan
+category : Materi
+Nama : Firman Lamaguntu
+Npm : 121055520121030
 ---
+Kata Pengantar
 
-## Keamanan Sistem dan Jaringan Komputer
+Puji syukur kami panjatkan ke hadirat Tuhan Yang Maha Esa, karena berkat rahmat dan karunia-Nya, kami dapat menyelesaikan makalah ini yang berjudul "Penggunaan Sistem Pemantauan Jaringan". Makalah ini disusun sebagai upaya untuk memahami lebih dalam mengenai pentingnya sistem pemantauan jaringan dalam dunia teknologi informasi yang semakin berkembang pesat.
 
-Mata kuliah **Keamanan Sistem dan Jaringan Komputer** bertujuan untuk memberikan pemahaman mendalam mengenai prinsip-prinsip, teknik, dan alat yang digunakan untuk melindungi sistem komputer dan jaringan dari berbagai ancaman keamanan.
+Di era digital saat ini, jaringan komputer menjadi tulang punggung bagi berbagai aktivitas bisnis dan komunikasi. Dengan meningkatnya kompleksitas jaringan, tantangan dalam pengelolaan dan pemeliharaan jaringan juga semakin besar. Oleh karena itu, sistem pemantauan jaringan menjadi sangat penting untuk memastikan kinerja yang optimal, keamanan data, serta deteksi dini terhadap masalah yang mungkin timbu
 
-### Pokok Bahasan:
-1. **Dasar-Dasar Keamanan Informasi**
-   - Konsep CIA (Confidentiality, Integrity, Availability)  
-   - Ancaman, kerentanan, dan risiko  
-   - Kebijakan keamanan informasi  
+## pendahuluan
 
-2. **Kriptografi**
-   - Algoritma enkripsi simetris dan asimetris  
-   - Hashing dan tanda tangan digital  
-   - Sertifikat digital dan infrastruktur kunci publik (PKI)  
+Sistem pemantauan jaringan merupakan alat penting dalam manajemen infrastruktur TI. Dengan meningkatnya kompleksitas jaringan, penggunaan sistem pemantauan menjadi krusial untuk memastikan kinerja yang optimal dan keamanan data. Makalah ini akan membahas berbagai aspek penggunaan sistem pemantauan jaringan, termasuk manfaat, jenis sistem, dan implementasinya.
 
-3. **Keamanan Sistem Operasi**
-   - Model keamanan sistem operasi  
-   - Hardening sistem operasi  
-   - Manajemen akses dan otorisasi  
 
-4. **Keamanan Jaringan Komputer**
-   - Firewall dan IDS/IPS  
-   - Keamanan protokol jaringan (IPSec, SSL/TLS)  
-   - VPN dan proxy  
+### Manfaat Sistem Pemantauan Jaringan
 
-5. **Serangan Siber dan Pertahanan**
-   - Jenis-jenis serangan (DoS/DDoS, phishing, malware, ransomware)  
-   - Teknik mitigasi dan respons insiden  
-   - Analisis forensik siber  
+a. Deteksi Masalah Secara Dini
 
-6. **Keamanan Aplikasi Web dan IoT**
-   - Kerentanan aplikasi web (SQL Injection, XSS, CSRF)  
-   - Keamanan API dan IoT  
+Sistem pemantauan jaringan dapat mendeteksi masalah sebelum menjadi kritis, sehingga mengurangi waktu henti dan meningkatkan ketersediaan layanan.
 
-7. **Etika dan Kepatuhan**
-   - Regulasi keamanan data (GDPR, ISO 27001)  
-   - Etika profesional dalam keamanan siber  
+b. Analisis Kinerja
 
-### Hasil Pembelajaran:
-Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
-1. Mengidentifikasi dan menganalisis ancaman serta kerentanan pada sistem dan jaringan komputer.  
-2. Merancang solusi keamanan untuk melindungi data dan infrastruktur teknologi informasi.  
-3. Menerapkan alat dan teknik keamanan pada sistem operasi, jaringan, dan aplikasi.  
-4. Mengelola insiden keamanan dan melakukan investigasi forensik.  
-5. Memahami aspek hukum dan etika terkait keamanan siber. 
+Dengan memantau kinerja jaringan, administrator dapat menganalisis penggunaan bandwidth, latensi, dan throughput, yang membantu dalam pengambilan keputusan.
 
----
-- From: CGAI
-- By: Ikhwan Elyas
+c. Keamanan Jaringan
+
+Sistem ini juga berfungsi untuk mendeteksi aktivitas mencurigakan dan potensi ancaman, sehingga meningkatkan keamanan jaringan secara keseluruhan.
+
+2. **Jenis Sistem Pemantauan Jaringan
+
+a.  Sistem Berbasis SNMP (Simple Network Management Protocol)
+
+Menggunakan protokol SNMP untuk mengumpulkan informasi dari perangkat jaringan. Contoh: Nagios, Zabbix.
+
+b. Sistem Berbasis Agen
+
+Memerlukan instalasi agen pada perangkat yang dipantau. Contoh: SolarWinds, PRTG.
+
+c. Sistem Berbasis Cloud
+
+Memanfaatkan layanan cloud untuk pemantauan, memungkinkan akses dari mana saja. Contoh: Datadog, New Relic.
+
+3. **Implementasi Sistem Pemantauan Jaringan
+   
+   Perencanaan
+a. Menentukan kebutuhan pemantauan dan memilih sistem yang sesuai dengan infrastruktur yang ada.
+
+b. Instalasi dan Konfigurasi
+
+Melakukan instalasi perangkat lunak dan konfigurasi sesuai dengan kebijakan jaringan.
+
+c. Pengujian
+
+Melakukan pengujian untuk memastikan sistem berfungsi dengan baik dan dapat mendeteksi masalah.
+
+d. Pemeliharaan
+
+Melakukan pemeliharaan rutin untuk memastikan sistem tetap up-to-date dan efektif.
+
+###Kesimpulan
+
+Penggunaan sistem pemantauan jaringan sangat penting dalam menjaga kinerja dan keamanan infrastruktur TI. Dengan berbagai jenis sistem yang tersedia, organisasi dapat memilih solusi yang paling sesuai dengan kebutuhan mereka. Implementasi yang tepat dan pemeliharaan yang rutin akan memastikan sistem pemantauan berfungsi secara optimal.
+
+### referensi
+
+LibreNMS
+
+Penelitian tentang desain dan implementasi sistem pemantauan jaringan menggunakan LibreNMS. Link
+Spiceworks
+
+Penggunaan aplikasi Spiceworks untuk monitoring sistem jaringan komputer. Link
+
+
