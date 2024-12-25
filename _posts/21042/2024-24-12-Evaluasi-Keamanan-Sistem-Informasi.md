@@ -25,7 +25,7 @@ Dalam era digital saat ini, sistem informasi menjadi tulang punggung operasional
 **1.4 Manfaat Penelitian**
 Penelitian ini diharapkan dapat memberikan kontribusi dalam pengembangan sistem informasi yang lebih aman, serta membantu organisasi untuk melindungi aset digital mereka dari ancaman keamanan.
 
----
+
 
 **BAB 2: TINJAUAN PUSTAKA**
 
@@ -45,7 +45,7 @@ Keamanan sistem informasi mengacu pada perlindungan terhadap aset informasi dari
 - Akses tidak sah melalui metode phishing atau brute force.  
 - Pelanggaran data akibat kelemahan konfigurasi sistem.
 
----
+
 
 **BAB 3: METODOLOGI PENELITIAN**
 
@@ -75,7 +75,6 @@ Penetration testing menjadi salah satu metode yang paling efektif karena dapat m
 **4.3 Dampak Kelemahan Keamanan Sistem Informasi**  
 Kelemahan dalam keamanan sistem informasi dapat menyebabkan kerugian finansial, reputasi organisasi yang buruk, dan kerugian hukum. Contoh kasus adalah serangan ransomware WannaCry yang berdampak pada organisasi di seluruh dunia.
 
----
 
 **BAB 5: PENUTUP**
 
@@ -87,12 +86,10 @@ Evaluasi keamanan sistem informasi merupakan langkah krusial untuk melindungi da
 2. Pelatihan keamanan untuk karyawan harus dilakukan secara rutin.  
 3. Implementasi teknologi seperti firewall, IDS/IPS, dan enkripsi data harus ditingkatkan.
 
----
 
 **Referensi:**
 1. Laudon, K. C., & Laudon, J. P. (2020). *Management Information Systems: Managing the Digital Firm*. Pearson.
 2. NIST. (2021). *Cybersecurity Framework*.
 3. ISO/IEC 27001. (2018). *Information Security Management Systems*.
-
-   
 5. Stallings, W. (2018). *Cryptography and Network Security: Principles and Practice*. Pearson.
+   
