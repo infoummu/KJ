@@ -62,7 +62,6 @@ Pendekatan yang digunakan dalam penelitian ini adalah studi kualitatif dengan an
 3. Analisis data untuk menjawab rumusan masalah.  
 4. Penyusunan rekomendasi berdasarkan temuan penelitian.
 
----
 
 **BAB 4: PEMBAHASAN**
 
