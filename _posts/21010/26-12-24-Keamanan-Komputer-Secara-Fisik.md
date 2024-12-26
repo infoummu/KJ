@@ -14,9 +14,9 @@ Dalam penyusunan makalah ini, kami telah berusaha memberikan penjelasan yang sis
 
 Kami menyadari bahwa makalah ini masih jauh dari kesempurnaan. Oleh karena itu, kritik dan saran yang membangun sangat kami harapkan untuk perbaikan di masa mendatang. Semoga makalah ini dapat memberikan manfaat bagi pembaca, khususnya dalam meningkatkan kesadaran akan pentingnya keamanan komputer secara fisik.
 
-Yogyakarta, Desember 2024
+Ternate, 26 Desember 2024
 
-Penyusun
+Prawito Vadillo
 
 ## Daftar Isi
 
