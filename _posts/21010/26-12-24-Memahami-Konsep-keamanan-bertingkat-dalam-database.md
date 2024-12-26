@@ -16,6 +16,7 @@ Kami menyadari bahwa penyusunan makalah ini tidak terlepas dari bantuan berbagai
 Kami berharap makalah ini dapat memberikan wawasan yang bermanfaat bagi para pembaca, khususnya yang memiliki minat terhadap manajemen keamanan database. Kritik dan saran yang membangun sangat kami harapkan untuk penyempurnaan karya ini di masa mendatang.
 
 26, Desember 2024
+
 Prawito Vadillo
 
 ---
