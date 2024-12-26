@@ -33,9 +33,11 @@ Makalah ini akan membahas lebih lanjut mengenai definisi, komponen, dan implemen
 ## Konsep Keamanan Bertingkat
 
 1. **Definisi Keamanan Bertingkat**
+   
    Keamanan bertingkat adalah pendekatan strategis dalam perlindungan data yang menggunakan berbagai mekanisme pengamanan secara simultan. Pendekatan ini dirancang untuk menghadirkan redundansi dan memastikan bahwa jika satu lapisan gagal, lapisan lainnya tetap dapat melindungi data.
 
-2. **Komponen Utama Keamanan Bertingkat**
+3. **Komponen Utama Keamanan Bertingkat**
+   
    a. **Otentikasi dan Otorisasi**  
       Otentikasi memastikan bahwa hanya pengguna yang sah yang dapat mengakses database. Sedangkan otorisasi mengatur hak akses setiap pengguna sesuai dengan perannya.
    
@@ -48,7 +50,8 @@ Makalah ini akan membahas lebih lanjut mengenai definisi, komponen, dan implemen
    d. **Audit dan Monitoring**  
       Audit log dan pemantauan secara terus-menerus membantu mengidentifikasi dan merespons potensi ancaman dengan cepat.
 
-3. **Implementasi Keamanan Bertingkat dalam Database**
+4. **Implementasi Keamanan Bertingkat dalam Database**
+   
    a. **Pengelolaan Hak Akses**  
       Setiap pengguna diberikan hak akses yang spesifik berdasarkan prinsip least privilege.
    
