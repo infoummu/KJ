@@ -1,7 +1,7 @@
 ---
 title: Keamana Sistem & Jaringan Komputer V1
 category: Materi
-author: Ikhwan Elyas
+author: Abu Isa
 published: true
 ---
 
