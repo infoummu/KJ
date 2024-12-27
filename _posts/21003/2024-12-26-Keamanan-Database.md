@@ -1,5 +1,5 @@
 ---
-title: Teknik Transposisi Dan One Time Pad
+title: Keamanan Database
 category: Materi
 author: Merlan Kolong (21003)
 published: true
