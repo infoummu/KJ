@@ -1,7 +1,7 @@
 ---
 title: mengenali bentuk serangan terhadap sistem operasi linux dan evaluasi keamanan
 category: Materi
-author: Zulti Maqfirah Rivai
+author: Zulti Maqfirah Rivai (21151)
 published: true
 ---
 
