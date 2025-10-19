@@ -1,7 +1,7 @@
 ---
-Judul : jenis penyerangan pada protokol
+title : jenis penyerangan pada protokol
 category : Materi
-Nama : M Gibran A Hasan
+author : M Gibran A Hasan
 npm : 121055520121032
 ---
 

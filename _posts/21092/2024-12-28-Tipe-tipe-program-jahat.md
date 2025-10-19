@@ -1,7 +1,7 @@
 ---
-Judul : Tipe-tipe Program Jahat
+title : Tipe-tipe Program Jahat
 category : Materi
-Nama : Eka Rahayu A. Hasyim
+author : Eka Rahayu A. Hasyim
 npm : 121055520121092
 ---
 

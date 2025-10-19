@@ -1,7 +1,7 @@
 ---
 title : melakukan analisa dalam proses transaksi pembayran melalui ATM secara aman
 category : Materi
-Nama : M Gibran A Hasan
+author : M Gibran A Hasan
 Npm : 121055520121032
 ---
 

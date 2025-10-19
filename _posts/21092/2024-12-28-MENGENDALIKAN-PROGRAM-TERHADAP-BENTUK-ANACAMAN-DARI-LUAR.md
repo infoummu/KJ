@@ -1,11 +1,13 @@
 ---
 title : MENGENDALIKAN PROGRAM TERHADAP BENTUK ANACAMAN DARI LUAR
 category : Materi
-Nama : EKA RAHAYU A. HASYIM
+author : EKA RAHAYU A. HASYIM
 Npm : 121055520121092
 ---
-# MENGENDALIKAN PROGRAM TERHADAP BENTUK ANACAMAN DARI LUAR
-## PENDAHULUAN
+
+
+## MENGENDALIKAN PROGRAM TERHADAP BENTUK ANACAMAN DARI LUAR
+### PENDAHULUAN
 Dalam era digital yang berkembang pesat saat ini, ancaman terhadap sistem komputer dan program semakin kompleks dan beragam. Ancaman-ancaman ini bisa datang dari berbagai sumber, baik itu individu, kelompok, hingga negara yang memiliki tujuan tertentu. Ancaman luar, seperti serangan malware, peretasan (hacking), dan serangan denial of service (DoS), adalah salah satu bentuk yang paling sering dijumpai.
 Mengendalikan program terhadap ancaman luar merupakan langkah yang krusial untuk menjaga keberlanjutan operasional dan integritas data yang ada dalam suatu sistem. Untuk itu, dibutuhkan pengetahuan dan teknik-teknik yang tepat dalam mengelola dan mengamankan program agar tidak rentan terhadap serangan dari luar.
 
