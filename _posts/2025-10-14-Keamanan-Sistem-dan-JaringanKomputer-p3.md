@@ -27,7 +27,7 @@ Mahasiswa memahami dan mampu menggunakan perintah-perintah dasar Linux untuk adm
 
    ```bash
    # contoh nama user = mhs-22002
-   # sudo adduser (NPM)
+   # sudo adduser mhs-(NPM)
    sudo adduser mhs-22002
 
    ```
@@ -35,8 +35,8 @@ Mahasiswa memahami dan mampu menggunakan perintah-perintah dasar Linux untuk adm
 3. Jika sudah berhasil, lanjut exit (keluar) dari user yang dipakai bersama dan masuk lagi dengan user yang baru anda buat 
 ```bash
 # contoh : 
-# ssh  npm@192.168.77.10
-ssh 22001@@192.168.77.10
+# ssh  mhs-npm@192.168.77.10
+ssh mhs-22001@@192.168.77.10
 ```
 
 4. Selanjutnya, gunakan **user** dan **pass** tersebut untuk melakukan latihan dan kebutuhan belajar MK ini seterusnya
