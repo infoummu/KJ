@@ -32,7 +32,7 @@ Setiap mahasiswa diminta **membuat slide presentasi** berdasarkan **tema yang di
 ### 🔧 Langkah-langkah:
 1. Lihat tema yang Anda  dapat pada tabel di bawah.  
 2. Buat slide PowerPoint (7–10 slide) dengan struktur berikut:
-   - **Slide 1:** Judul & identitas (Nama, NIM, Kelas, Tema)
+   - **Slide 1:** Judul & identitas (Nama, NPM, Kelas, Tema)
    - **Slide 2–7:** Penjelasan materi utama dengan poin dan ilustrasi
    - **Slide 8–10:** Contoh penerapan dan kesimpulan dan **referensi** 
 3. Simpan file dengan format:  
