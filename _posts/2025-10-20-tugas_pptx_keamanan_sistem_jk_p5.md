@@ -3,6 +3,7 @@ title: Tugas Keamanan Sistem dan Jaringan Komputer P-5
 category: Materi
 author: Ikhwan Elyas
 published: true
+description: Membuat presentasi dari 10 tema Keamanan Sistem dan Jaringan Komputer sangat penting untuk memperkuat pemahaman mahasiswa terhadap materi yang luas dan terus berkembang dalam keamanan siber. Melalui pembuatan slide, mahasiswa belajar meneliti, menganalisis, serta menjelaskan konsep keamanan dengan bahasa yang mudah dipahami. Kegiatan ini juga melatih kemampuan berpikir kritis dan komunikasi teknis — kompetensi utama seorang profesional keamanan. Selain itu, setiap mahasiswa akan menguasai topik secara mendalam sehingga dapat berkontribusi dalam diskusi kelas dan memahami bagaimana setiap konsep saling terhubung dalam menjaga keamanan sistem dan jaringan modern.
 ---
 
 ## 🧠 Tugas Mata Kuliah: Keamanan Sistem dan Jaringan Komputer

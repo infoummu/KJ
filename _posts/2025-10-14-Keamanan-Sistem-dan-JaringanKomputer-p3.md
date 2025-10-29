@@ -3,6 +3,7 @@ title: Implementasi Dasar Keamanan Jaringan (Linux) P-4
 category: Materi
 author: Ikhwan Elyas
 published: true
+description: Belajar dan mempraktikkan Linux sangat penting dalam Keamanan Sistem dan Jaringan Komputer karena sebagian besar server dan infrastruktur jaringan dunia berjalan di atas Linux. Dengan memahami perintah dasar, manajemen user, dan konfigurasi keamanan di Linux, mahasiswa dapat menganalisis, mengamankan, serta menangani ancaman pada sistem nyata. Linux menjadi fondasi utama bagi profesi keamanan siber.
 ---
 
 
