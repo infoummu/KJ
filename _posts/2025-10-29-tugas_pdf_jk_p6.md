@@ -147,13 +147,17 @@ Catat hasilnya!
 Isi laporan minimal meliputi:
 
 1️⃣ Tema, Nama, NPM, dan Kelas 
+
 2️⃣ Tujuan Latihan dan praktik  
+
 3️⃣ Hasil screenshot atau output perintah:
    - `ls -l` seluruh struktur direktori
    - Bukti uji coba akses
+
 4️⃣ Analisis singkat:
    - Mengapa hak akses **penting** dalam keamanan?
    - Contoh ancaman jika izin salah diterapkan
+
 5️⃣ Kesimpulan
 
 ---
