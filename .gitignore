@@ -23,3 +23,6 @@ file_exclude_rsync.txt
 *site
 ._site/
 
+tmp_md/
+tmp_md/*
+tmp_md
