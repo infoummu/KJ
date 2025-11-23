@@ -21,13 +21,13 @@ Dengan meningkatnya penggunaan ATM, penting untuk melakukan analisa terhadap pro
 
 ### Proses Transaksi Pembayaran Melalui ATM
 
-1. **Langkah-langkah Transaksi:
+1. **Langkah-langkah Transaksi:**
 a. Memasukkan Kartu ATM: Nasabah memasukkan kartu ke dalam mesin ATM.
 b. Input PIN: Nasabah diminta untuk memasukkan Personal Identification Number (PIN) untuk otentikasi.
 c. Memilih Jenis Transaksi: Nasabah memilih jenis transaksi yang diinginkan, seperti penarikan tunai, transfer, atau pembayaran.
 d. Konfirmasi Transaksi: Setelah memilih, nasabah harus mengkonfirmasi detail transaksi.e Penyelesaian Transaksi: Mesin ATM memproses e e e. transaksi dan memberikan struk sebagai bukti.
 
-2. **Analisa Keamanan dalam Transaksi ATM
+2. **Analisa Keamanan dalam Transaksi ATM**
 
   Risiko Keamanan:
   
@@ -42,7 +42,7 @@ Laporan Transaksi yang Mencurigakan: Nasabah harus segera melaporkan jika ada tr
 
 Rekomendasi untuk Meningkatkan Keamanan
 
-Edukasi Nasabah:**
+**Edukasi Nasabah:**
 
   Mengadakan seminar atau workshop tentang keamanan transaksi melalui ATM.
 Menyediakan informasi melalui media sosial dan website bank.
@@ -62,8 +62,11 @@ Dengan melakukan analisa dan menerapkan langkah-langkah keamanan yang tepat, ris
 Edukasi dan peningkatan teknologi menjadi kunci dalam menjaga keamanan transaksi melalui ATM.
 
 4. **Referensi**
+   
 Cyber University. (2021). Analisis dan Pemantauan dalam Proses Transaksi. Link
+
 Scribd. (2023). Makalah tentang ATM. Link
+
 ResearchGate. (2023). Pengaruh Penggunaan Sistem E-Payment. Link
    
 
