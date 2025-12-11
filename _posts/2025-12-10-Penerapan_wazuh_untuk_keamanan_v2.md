@@ -8,7 +8,14 @@ description: Mahasiswa mampu menginstal, mengkonfigurasi, dan menggunakan platfo
 
 
 
-## LAPORAN PENERAPAN WAZUH  
+## PENERAPAN WAZUH  
+###  Tujuan Pembelajaran
+
+Mahasiswa mampu menginstal, mengkonfigurasi, dan menggunakan platform **Wazuh** untuk memantau aktivitas keamanan dasar pada beberapa sistem operasi yang berbeda, sekaligus mengaplikasikan konsep **SIEM (Security Information and Event Management)** dan **IDS (Intrusion Detection System)** secara praktis.
+
+### TUGAS
+
+Pelajari Wazuh serta Implementasikan dalam kelompok belajar dan buat laporannya, DIPRESENTASIKAN.
 
 ### Profil Kelompok
 **Judul:** Penerapan Wazuh sebagai Sistem Monitoring dan Keamanan Jaringan  
@@ -73,5 +80,6 @@ Manfaat yang diperoleh:
 3. Topologi minimal: 1 server + 2 client.  
 4. Laporan wajib berisi Penjelasan dan dokumentasi screenshot setiap langkah atau proses.  
 5. Di PRESENTASIKAN HASIL dengan KELOMPOKNYA
+
 ---
 By: ikhwan@fedora.linux
