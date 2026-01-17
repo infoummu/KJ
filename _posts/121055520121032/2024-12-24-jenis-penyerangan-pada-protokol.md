@@ -67,9 +67,16 @@ Metode Serangan:
 Menggunakan malware untuk menginfeksi sistem.
 Menyebarkan melalui email atau situs web yang terinfeksi.
 Contoh Protokol Rentan: SMB, HTTP.
+
 ### referensi
+
 Jurnal Manajemen Informatika (JAMIKA), 2021.
+
 Walisongo Journal of Information Technology, 2021.
+
 Keamanan Jaringan: Pusat Bahan Ajar dan eLearning, 2024.
+
 Penelitian tentang Keamanan Sistem Jaringan, 2023.
+
 Jurnal Informatika Sunan Kalijaga, 2022.
+
